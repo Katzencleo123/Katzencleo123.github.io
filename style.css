@@ -11,7 +11,7 @@
   p  { font-size:12pt;
     line-height:14pt;
     font-family:Helvetica,Arial,sans-serif;
-    font-style italic
+    font-style:italic;
     letter-spacing:0.2mm;
     word-spacing:0.8mm;
     color:blue; }
